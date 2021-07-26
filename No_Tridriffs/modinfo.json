@@ -1,13 +1,14 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "No_Triffids",
-    "name": "No Triffids",
+    "id": "No_TRiffids",
+    "name": "No TRiffids",
     "authors": [ "Code_017" ],
     "description": "Removes triffids, fungi flowers and triffid gloves from the game",
-    "version": "v.0.9",
+    "version": "v.0.9.5",
     "category": "monster_exclude",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "dda" ],
+    "obsolete": false
   },
   {
     "type": "MONSTER_BLACKLIST",
