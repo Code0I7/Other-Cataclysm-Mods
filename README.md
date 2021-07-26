@@ -2,5 +2,5 @@
 Other small mods for Cataclysm
 Installation: Move mod folder to "Cataclysm_Folder"/data/mods
 
-- *No Triffids*
+- *No TRiffids*
   - Removes triffids, fungi flowers and triffid gloves from the game
